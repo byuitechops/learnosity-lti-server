@@ -1,0 +1,28 @@
+C:\Users\wbenjam.BYUI\Documents\Visual Studio 2015\Projects\learnosity-sdk-asp.net-master\LearnositySDK\bin\Debug\LearnositySDK.dll
+C:\Users\wbenjam.BYUI\Documents\Visual Studio 2015\Projects\learnosity-sdk-asp.net-master\LearnositySDK\bin\Debug\LearnositySDK.pdb
+C:\Users\wbenjam.BYUI\Documents\Visual Studio 2015\Projects\learnosity-sdk-asp.net-master\LearnositySDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wbenjam.BYUI\Documents\Visual Studio 2015\Projects\learnosity-sdk-asp.net-master\LearnositySDK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wbenjam.BYUI\Documents\Visual Studio 2015\Projects\learnosity-sdk-asp.net-master\LearnositySDK\obj\Debug\LearnositySDK.csprojResolveAssemblyReference.cache
+C:\Users\wbenjam.BYUI\Documents\Visual Studio 2015\Projects\learnosity-sdk-asp.net-master\LearnositySDK\obj\Debug\LearnositySDK.dll
+C:\Users\wbenjam.BYUI\Documents\Visual Studio 2015\Projects\learnosity-sdk-asp.net-master\LearnositySDK\obj\Debug\LearnositySDK.pdb
+C:\Users\wbenjam.BYUI\Source\Repos\LMS\LMS\LearnositySDK\bin\Debug\LearnositySDK.dll
+C:\Users\wbenjam.BYUI\Source\Repos\LMS\LMS\LearnositySDK\bin\Debug\LearnositySDK.pdb
+C:\Users\wbenjam.BYUI\Source\Repos\LMS\LMS\LearnositySDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wbenjam.BYUI\Source\Repos\LMS\LMS\LearnositySDK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wbenjam.BYUI\Source\Repos\LMS\LMS\LearnositySDK\obj\Debug\LearnositySDK.csprojResolveAssemblyReference.cache
+C:\Users\wbenjam.BYUI\Source\Repos\LMS\LMS\LearnositySDK\obj\Debug\LearnositySDK.dll
+C:\Users\wbenjam.BYUI\Source\Repos\LMS\LMS\LearnositySDK\obj\Debug\LearnositySDK.pdb
+C:\Users\wbenjam.BYUI\Source\Repos\LMS-LTI\LTIBase\LearnositySDK\bin\Debug\LearnositySDK.dll
+C:\Users\wbenjam.BYUI\Source\Repos\LMS-LTI\LTIBase\LearnositySDK\bin\Debug\LearnositySDK.pdb
+C:\Users\wbenjam.BYUI\Source\Repos\LMS-LTI\LTIBase\LearnositySDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wbenjam.BYUI\Source\Repos\LMS-LTI\LTIBase\LearnositySDK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wbenjam.BYUI\Source\Repos\LMS-LTI\LTIBase\LearnositySDK\obj\Debug\LearnositySDK.csprojResolveAssemblyReference.cache
+C:\Users\wbenjam.BYUI\Source\Repos\LMS-LTI\LTIBase\LearnositySDK\obj\Debug\LearnositySDK.dll
+C:\Users\wbenjam.BYUI\Source\Repos\LMS-LTI\LTIBase\LearnositySDK\obj\Debug\LearnositySDK.pdb
+C:\Users\wbenjam.BYUI\Source\Repos\Learnosity\LearnositySDK\bin\Debug\LearnositySDK.dll
+C:\Users\wbenjam.BYUI\Source\Repos\Learnosity\LearnositySDK\bin\Debug\LearnositySDK.pdb
+C:\Users\wbenjam.BYUI\Source\Repos\Learnosity\LearnositySDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wbenjam.BYUI\Source\Repos\Learnosity\LearnositySDK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wbenjam.BYUI\Source\Repos\Learnosity\LearnositySDK\obj\Debug\LearnositySDK.csprojResolveAssemblyReference.cache
+C:\Users\wbenjam.BYUI\Source\Repos\Learnosity\LearnositySDK\obj\Debug\LearnositySDK.dll
+C:\Users\wbenjam.BYUI\Source\Repos\Learnosity\LearnositySDK\obj\Debug\LearnositySDK.pdb
