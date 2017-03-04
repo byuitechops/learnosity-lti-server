@@ -101,7 +101,7 @@ namespace LearnositySDK.Examples
             request.set("tags", tags);
 
             JsonObject user = new JsonObject();
-            user.set("id", "brianmoser");
+            user.set("id", "finchd@byui.edu");
             user.set("firstname", "Test");
             user.set("lastname", "Test");
             user.set("email", "test@test.com");

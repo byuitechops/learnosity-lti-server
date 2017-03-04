@@ -26,3 +26,10 @@ C:\Users\wbenjam.BYUI\Source\Repos\Learnosity\LearnositySDK\bin\Debug\Newtonsoft
 C:\Users\wbenjam.BYUI\Source\Repos\Learnosity\LearnositySDK\obj\Debug\LearnositySDK.csprojResolveAssemblyReference.cache
 C:\Users\wbenjam.BYUI\Source\Repos\Learnosity\LearnositySDK\obj\Debug\LearnositySDK.dll
 C:\Users\wbenjam.BYUI\Source\Repos\Learnosity\LearnositySDK\obj\Debug\LearnositySDK.pdb
+C:\Users\harkerb2\Documents\learnosity-lti-server\learnosity-lti-server\LearnositySDK\bin\Debug\LearnositySDK.dll
+C:\Users\harkerb2\Documents\learnosity-lti-server\learnosity-lti-server\LearnositySDK\bin\Debug\LearnositySDK.pdb
+C:\Users\harkerb2\Documents\learnosity-lti-server\learnosity-lti-server\LearnositySDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\harkerb2\Documents\learnosity-lti-server\learnosity-lti-server\LearnositySDK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\harkerb2\Documents\learnosity-lti-server\learnosity-lti-server\LearnositySDK\obj\Debug\LearnositySDK.csprojResolveAssemblyReference.cache
+C:\Users\harkerb2\Documents\learnosity-lti-server\learnosity-lti-server\LearnositySDK\obj\Debug\LearnositySDK.dll
+C:\Users\harkerb2\Documents\learnosity-lti-server\learnosity-lti-server\LearnositySDK\obj\Debug\LearnositySDK.pdb
