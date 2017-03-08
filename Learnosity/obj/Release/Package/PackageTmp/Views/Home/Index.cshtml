@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<script src="//items.learnosity.com/"></script>
+
+<div class="section">
+    <!-- Container for the items api to load into -->
+    <div id="learnosity_assess"></div>
+</div>
+
+<script>
+    var initOptions = @Html.Raw(ViewBag.Tim);
+
+    var assessApp = LearnosityItems.init(initOptions);
+
+</script>

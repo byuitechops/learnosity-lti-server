@@ -197,3 +197,6 @@ C:\Users\harkerb2\Documents\learnosity-lti-server\learnosity-lti-server\Learnosi
 C:\Users\harkerb2\Documents\learnosity-lti-server\learnosity-lti-server\Learnosity\bin\System.Net.Http.Formatting.dll
 C:\Users\harkerb2\Documents\learnosity-lti-server\learnosity-lti-server\Learnosity\bin\System.Web.Http.dll
 C:\Users\harkerb2\Documents\learnosity-lti-server\learnosity-lti-server\Learnosity\bin\HtmlAgilityPack.dll
+C:\Users\wbenjam.BYUI\Source\Repos\Learnosity\Learnosity\bin\System.Net.Http.Formatting.dll
+C:\Users\wbenjam.BYUI\Source\Repos\Learnosity\Learnosity\bin\System.Web.Http.dll
+C:\Users\wbenjam.BYUI\Source\Repos\Learnosity\Learnosity\bin\HtmlAgilityPack.dll

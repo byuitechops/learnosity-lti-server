@@ -1,0 +1,7 @@
+C:\Users\wbenjam.BYUI\Source\Repos\Learnosity\LearnositySDK\bin\Release\LearnositySDK.dll
+C:\Users\wbenjam.BYUI\Source\Repos\Learnosity\LearnositySDK\bin\Release\LearnositySDK.pdb
+C:\Users\wbenjam.BYUI\Source\Repos\Learnosity\LearnositySDK\bin\Release\Newtonsoft.Json.dll
+C:\Users\wbenjam.BYUI\Source\Repos\Learnosity\LearnositySDK\bin\Release\Newtonsoft.Json.xml
+C:\Users\wbenjam.BYUI\Source\Repos\Learnosity\LearnositySDK\obj\Release\LearnositySDK.csprojResolveAssemblyReference.cache
+C:\Users\wbenjam.BYUI\Source\Repos\Learnosity\LearnositySDK\obj\Release\LearnositySDK.dll
+C:\Users\wbenjam.BYUI\Source\Repos\Learnosity\LearnositySDK\obj\Release\LearnositySDK.pdb

@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "Author Page";
+}
+<script src="//authorapi.learnosity.com/"></script>
+
+<div class="section">
+    <!-- Container for the items api to load into -->
+    <div id="learnosity-author"></div>
+</div>
+
+<script>
+    var initOptions = @Html.Raw(ViewBag.Tim);
+
+    var authorApp = LearnosityAuthor.init(initOptions);
+
+</script>
