@@ -1,0 +1,14 @@
+{
+  "name": "learnocity-lti-server",
+  "version": "1.0.0",
+  "description": "LTI Server to connect Learnosity to D2L Brightspace.",
+  "main": "",
+  "scripts": {
+    "test": "NA"
+  },
+  "author": "Moroni Wilson",
+  "contributors": [{
+    "name: "Ben Harker"
+  }],
+  "license": "MIT"
+}
