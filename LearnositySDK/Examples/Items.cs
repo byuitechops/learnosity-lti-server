@@ -7,7 +7,7 @@ namespace LearnositySDK.Examples
 {
     public class Items
     {
-        public static string Simple(string activityId, string userId)
+        public static string Simple(string activityId, string userId, string outcomeUrl, string sourcedId)
         {
             // prepare all the params
             string service = "items";
@@ -28,6 +28,13 @@ namespace LearnositySDK.Examples
             request.set("name", "assessment of " + activityId);
             request.set("session_id", Uuid.generate());
             request.set("user_id", userId);
+
+            JsonObject lis_data = new JsonObject();
+            lis_data.set("lis_outcome_service_url", outcomeUrl);
+            lis_data.set("lis_result_sourcedid", sourcedId);
+            lis_data.set("oauth_consumer_key", "SuperBadKey");
+
+            request.set("lis_data", lis_data);
 
             // Instantiate Init class
             Init init = new Init(service, security, secret, request);

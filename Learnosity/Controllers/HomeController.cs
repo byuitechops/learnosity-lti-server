@@ -37,7 +37,7 @@ namespace Learnosity.Controllers
 
             string query = base.Request.UrlReferrer.Query;
             Dictionary<string, string> queries = new Dictionary<string, string>();
-            if(query.Length > 3)
+            if (query.Length > 3)
             {
                 query = query.Substring(1);
                 foreach (string value in query.Split('&'))
@@ -50,13 +50,17 @@ namespace Learnosity.Controllers
             string uuid = Uuid.generate();
             string courseId = tm.LtiRequest.ContextId;
 
-            string service = queries["service"];
+            if (!queries.ContainsKey("service"))
+            {
+                queries["service"] = "items";
+                queries["activity"] = "ec1_read_t1_psg2";
+            }
 
             if (queries["service"] == "items")
             {
-                ViewBag.Tim = Items.Simple(queries["activity"], tm.LtiRequest.Parameters["ext_d2l_orgdefinedid"]);
+                ViewBag.Tim = Items.Simple(queries["activity"], tm.LtiRequest.Parameters["ext_d2l_orgdefinedid"], tm.LtiRequest.LisOutcomeServiceUrl, tm.LtiRequest.LisResultSourcedId);
             }
-            else if(queries["service"] == "assess")
+            else if (queries["service"] == "assess")
             {
                 string questionsApiActivityJson = Assess.questionsApiActivity(uuid, courseId);
                 JsonObject questionsApiActivity = JsonObjectFactory.fromString(questionsApiActivityJson);
@@ -74,10 +78,10 @@ namespace Learnosity.Controllers
                 request.set("items", Assess.items(uuid));
                 request.set("questionsApiActivity", questionsApiActivity);
 
-                Init init = new Init(service, security, secret, request);
+                Init init = new Init(queries["service"], security, secret, request);
                 ViewBag.Tim = init.generate();
             }
-            else if(queries["service"] == "author")
+            else if (queries["service"] == "author")
             {
                 return RedirectToAction("QuestionList");
             }
@@ -85,9 +89,9 @@ namespace Learnosity.Controllers
             {
                 return RedirectToAction("NoAuth", "Error");
             }
-                //ViewBag.SearchMe = "https://byui.brightspace.com/d2l/lp/manageUsers/main.d2l?ou=6606";
+            //ViewBag.SearchMe = "https://byui.brightspace.com/d2l/lp/manageUsers/main.d2l?ou=6606";
 
-                return View();
+            return View();
 
         }
 
